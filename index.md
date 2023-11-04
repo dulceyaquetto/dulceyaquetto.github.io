@@ -1,7 +1,6 @@
 # Dulce E. Alarcón Yaquetto
 
-Random bits about biomed research, health economics and overall PhDing. 
-
+Bits and bobs about my research (and research I wish was mine!)
 
 ## PhD research
 
