@@ -7,6 +7,8 @@ Bits and bobs about my research (and research I wish was mine!)
 
 ## Other ongoing research
 
+## About me
+
 
 
 
